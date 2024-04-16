@@ -9,4 +9,5 @@
 
 
 ### Here are some stats 📊
-[![Arham's GitHub stats](https://github-readme-stats.vercel.app/api?username=arhamansarii&show_icons=true&theme=dracula)](https://github.com/arhamansarii)  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=justinnzhang&theme=dracula)
+|[![Arham's GitHub stats](https://github-readme-stats.vercel.app/api?username=arhamansarii&show_icons=true&theme=dracula)](https://github.com/arhamansarii) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=justinnzhang&theme=dracula)|
+| ------------- | ------------- |
