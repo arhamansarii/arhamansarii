@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Arham Ansari
+# Hey, I'm Arham 👋
 
 I'm a Software Engineering and Business Administration student at Western University.
 
