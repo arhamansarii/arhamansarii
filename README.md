@@ -5,7 +5,7 @@
 
 
 
-💼 **Professional Experience:** I have had the pleasure of being a 2x Software Developer intern at Bell Canada as well as Western University as an Engineering Design Intern.
+💼 **Professional Experience:** I've had the pleasure of interning twice at Bell Canada as a Software Developer as well as an Engineering Design Intern at Western University.
 
 
 ### Here are some stats 📊
