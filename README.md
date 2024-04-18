@@ -1,7 +1,7 @@
 # Hey, I'm Arham 👋
 
 
-🎓 **About Me:** I'm currently pursuing a dual degree in Software Engineering and Business Administration at **Western University**. This is driven by my passion for blending technology with business insights.
+I'm currently pursuing a dual degree in Software Engineering and Business Administration at **Western University**, driven by my passion for exploring the intersection of technology and business.
 
 
 
