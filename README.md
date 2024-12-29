@@ -22,6 +22,6 @@ I'm a dual-degree candidate in **Software Engineering** at [Western University](
 - Director of Marketing @ Western MSA (20-21)
 
 ## 🔥 Some Cool Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arhamansarii&layout=donut&theme=dark&langs_count=6&hide=css)&nbsp;&nbsp;&nbsp;&nbsp; ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arhamansarii&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arhamansarii&layout=compact&theme=dark&langs_count=6&hide=css)&nbsp;&nbsp;&nbsp;&nbsp; ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arhamansarii&theme=dark)
 
 ![Arham's Stats](https://github-readme-stats.vercel.app/api?username=arhamansarii&theme=dark&show_icons=true&rank_icon=github&include_all_commits=true)
