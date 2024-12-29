@@ -23,6 +23,6 @@ I'm a dual-degree candidate in **Software Engineering** at [Western University](
 
 ## 🔥 Some Cool Stats
 
-<img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansarii&theme=dark" /> &nbsp; <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhamansarii&layout=compact&theme=dark&langs_count=6&hide=css" />
+<img height=150 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arhamansarii&theme=dark" /> &nbsp; <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhamansarii&layout=compact&theme=dark&langs_count=6&hide=css" />
 
 ![Arham's Stats](https://github-readme-stats.vercel.app/api?username=arhamansarii&theme=dark&show_icons=true&rank_icon=github&include_all_commits=true&card_width=580)
