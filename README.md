@@ -1,12 +1,27 @@
-# Hey, I'm Arham 👋
+<h1 align="center">Hi, I'm Arham 👋</h1>
 
 
-I'm currently pursuing a dual degree in Software Engineering and Business Administration at **Western University**, driven by my passion for exploring the intersection of technology and business.
+I'm a dual-degree candidate in **Software Engineering** at [Western University](https://www.uwo.ca/index.html) and **Business Administration** at [Ivey Business School](https://www.ivey.uwo.ca/), passionate about exploring the intersection of technology and business.
 
 
+## 💻 Professional Experience
+- ML Researcher (Capstone) @ [Royal Bank of Canada](https://www.rbc.com/about-rbc.html) (Sept 2024 - Present)
+- Software Engineering Intern @ [Bell Canada](https://www.bell.ca/) (May- Sept 2024)
+- Software Engineering Intern @ [Bell Canada](https://www.bell.ca/) (May - Aug 2023)
+- Research Assistant @ [Ivey Business School](https://www.ivey.uwo.ca/) (2022)
 
-💼 **Professional Experience:** I've interned twice at Bell Canada as a Software Developer, and am current an Undergraduate Research Assistant at Western University.
+## ⚡ Technical Skills
+- **Languages:** Java, Python, JavaScript, C++, C, Ruby, TypeScript, SQL, HTML
+- **Infrastructure:** Kubernetes, Docker, AWS, GCP, Kafka, Ansible, Elasticsearch
+- **Technologies:** React, Node, Rails, GraphQL, Django, Vue, PostgreSQL, MongoDB
 
+## 🤺 Leadership & Extracurriculars
+- Director of Projects @ Western Founders' Network (21-22)
+- Vice President @ Western MSA (21-22)
+- Director of Design @ Western Founders' Network (20-21)
+- Director of Marketing @ Western MSA (20-21)
 
-|[![Arham's GitHub stats](https://github-readme-stats.vercel.app/api?username=arhamansarii&show_icons=true&theme=dracula)](https://github.com/arhamansarii) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arhamansarii&theme=dracula)|
-| ------------- | ------------- |
+## 🔥 Some Cool Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arhamansarii&layout=donut&theme=dark&langs_count=6&hide=css)&nbsp;&nbsp;&nbsp;&nbsp; ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arhamansarii&theme=dark)
+
+![Arham's Stats](https://github-readme-stats.vercel.app/api?username=arhamansarii&theme=dark&show_icons=true&rank_icon=github&include_all_commits=true)
