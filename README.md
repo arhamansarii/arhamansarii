@@ -15,7 +15,9 @@ I'm a dual-degree candidate in **Software Engineering** at [Western University](
 - **Infrastructure:** Kubernetes, Docker, AWS, GCP, Kafka, Ansible, Elasticsearch
 - **Technologies:** React, Node, Rails, GraphQL, Django, Vue, PostgreSQL, MongoDB
 
-## 🤺 Leadership & Extracurriculars
+## 🤺 Leadership & Achievements
+- 1st Place Overall @ MSA Hacks 2025
+- Tech Developer @ Western MSA (23-24)
 - Director of Projects @ Western Founders' Network (21-22)
 - Vice President @ Western MSA (21-22)
 - Director of Design @ Western Founders' Network (20-21)
