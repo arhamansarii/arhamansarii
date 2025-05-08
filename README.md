@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Arham 👋</h1>
 
 
-I'm a dual-degree candidate in **Software Engineering** at [Western University](https://www.uwo.ca/index.html) and **Business Administration** at [Ivey Business School](https://www.ivey.uwo.ca/), passionate about exploring the intersection of technology and business.
+I'm a dual-degree new grad in **Software Engineering** at [Western University](https://www.uwo.ca/index.html) and **Honours Business Administration** at [Ivey Business School](https://www.ivey.uwo.ca/), passionate about exploring the intersection of technology and business.
 
 
 ## 💻 Professional Experience
