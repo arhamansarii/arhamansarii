@@ -5,7 +5,7 @@ I'm a dual-degree candidate in **Software Engineering** at [Western University](
 
 
 ## 💻 Professional Experience
-- ML Researcher (Capstone) @ [Royal Bank of Canada](https://www.rbc.com/about-rbc.html) (Sept 2024 - Apr 2025)
+- ML Engineer (Capstone) @ [Royal Bank of Canada](https://www.rbc.com/about-rbc.html) (Sept 2024 - Apr 2025)
 - Software Engineering Intern @ [Bell Canada](https://www.bell.ca/) (May- Sept 2024)
 - Software Engineering Intern @ [Bell Canada](https://www.bell.ca/) (May - Aug 2023)
 - Research Assistant @ [Ivey Business School](https://www.ivey.uwo.ca/) (2022)
