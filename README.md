@@ -23,8 +23,8 @@ I'm a dual-degree new grad in **Software Engineering** at [Western University](h
 - Director of Design @ Western Founders' Network (20-21)
 - Director of Marketing @ Western MSA (20-21)
 
-## 🔥 Some Stats
+<!--- ## 🔥 Some Stats
 
-<img height=180 align="center" src="https://github-readme-streak-stats-lilac-three.vercel.app/?user=arhamansarii&theme=dark" /> &nbsp; <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhamansarii&layout=compact&theme=dark&langs_count=6&hide=css" />
+<!--- <img height=180 align="center" src="https://github-readme-streak-stats-lilac-three.vercel.app/?user=arhamansarii&theme=dark" /> &nbsp; <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arhamansarii&layout=compact&theme=dark&langs_count=6&hide=css" />
 
 
