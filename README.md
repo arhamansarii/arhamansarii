@@ -5,6 +5,7 @@ I'm a dual-degree new grad in **Software Engineering** at [Western University](h
 
 
 ## 💻 Professional Experience
+- Software Engineer @ [Ciena](https://www.ciena.com/) (Sept 2025 - Present)
 - ML Engineer (Capstone) @ [Royal Bank of Canada](https://www.rbc.com/about-rbc.html) (Sept 2024 - Apr 2025)
 - Software Engineering Intern @ [Bell Canada](https://www.bell.ca/) (May- Sept 2024)
 - Software Engineering Intern @ [Bell Canada](https://www.bell.ca/) (May - Aug 2023)
